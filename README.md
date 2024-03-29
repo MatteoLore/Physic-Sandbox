@@ -3,8 +3,6 @@ Ne vous êtes-vous jamais demandé comment était la physique dans des environne
 
 Ce projet participe au Trophées NSI édition 2024, il a été réalisé par Anaïs Redon, Noémie Guillaume, Nathan Sahut et Matteo Passelergue.
 
-Certaine images n'ont pas été réalisé par nous, cependant elles sont libres de droit sans besoins  de citer l'artiste ( link
-
 ## Protocole d'utilisation - Window, Linux et MacOS
 - Téléchargez l'ensemble du dossier `sources`
 - Installer les dépendances nécessaires (se référer à [requirements.txt](requirements.txt))
