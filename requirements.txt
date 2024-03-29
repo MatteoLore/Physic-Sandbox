@@ -1,0 +1,5 @@
+Prérequis :
+    - python - >= 3.x.x
+    - module Pygame - pip install pygame - latest version
+    - module Pymunk - pip install pymunk - latest version
+    - module Tkinter - pip install tkinter - latest version
